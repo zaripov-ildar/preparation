@@ -1,9 +1,6 @@
-package ru.gb.preparation;
+package ru.gb.preparation.hw_2;
 
 import org.junit.jupiter.api.Test;
-import ru.gb.preparation.hw_1.ArrList;
-import ru.gb.preparation.hw_1.LinList;
-import ru.gb.preparation.hw_1.iList;
 
 import static org.junit.jupiter.api.Assertions.*;
 

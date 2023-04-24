@@ -1,4 +1,4 @@
-package ru.gb.preparation.hw_1;
+package ru.gb.preparation.hw_2;
 
 public interface iList<T> {
     void add(T t);
