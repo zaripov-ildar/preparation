@@ -1,6 +1,9 @@
 package ru.gb.preparation;
 
 import org.junit.jupiter.api.Test;
+import ru.gb.preparation.hw_1.ArrList;
+import ru.gb.preparation.hw_1.LinList;
+import ru.gb.preparation.hw_1.iList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -11,9 +14,9 @@ public class iListTest {
         ArrList<String> list = new ArrList<>();
         testIList(list);
         assertEquals(160, list.getCapacity());
-
         exceptionTest(list);
     }
+
 
     @Test
     public void testLinList() {

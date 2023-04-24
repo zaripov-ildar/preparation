@@ -1,4 +1,4 @@
-package ru.gb.preparation;
+package ru.gb.preparation.hw_1;
 
 public class LinList<T> implements iList<T> {
 

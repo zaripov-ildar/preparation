@@ -1,4 +1,4 @@
-package ru.gb.preparation;
+package ru.gb.preparation.hw_1;
 
 public class ArrList<T> implements iList<T> {
 
